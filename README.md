@@ -4,6 +4,8 @@
 
 **Drop in an XLSX workbook. Get ten analytical dashboards, audited totals, and boardroom-ready exports.**
 
+### [→ Try it live](https://frontend-vert-three-56.vercel.app)
+
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -91,7 +93,7 @@ Recommended and optional headings appear under **View expected schema** and are 
 
 ## Deployment
 
-Two Vercel projects from this one repository:
+Live at **<https://frontend-vert-three-56.vercel.app>**. Two Vercel projects from this one repository:
 
 | Project | Root | Serves |
 |---|---|---|
