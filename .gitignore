@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.python-packages/
+.venv/
+__pycache__/
+.pytest_cache/
+test-results/
+*.log
+*.xlsx
+*.parquet
+.env*
+.vercel/
+.tools/

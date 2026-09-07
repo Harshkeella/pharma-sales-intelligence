@@ -1,0 +1,54 @@
+{
+  "pdf_pages": 9,
+  "pptx_slides": 9,
+  "order": [
+    "Overview",
+    "Sales trends",
+    "Product intelligence",
+    "Customer intelligence",
+    "Geography",
+    "Commercial",
+    "Supply chain",
+    "Pharma risk",
+    "Tax & terms"
+  ],
+  "slide_images": [
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ],
+    [
+      3200,
+      1800
+    ]
+  ],
+  "result": "passed"
+}

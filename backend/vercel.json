@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "regions": ["bom1"],
+  "functions": {"main.py": {"maxDuration": 300, "memory": 2048}},
+  "crons": [{"path": "/api/cleanup", "schedule": "0 3 * * *"}]
+}
